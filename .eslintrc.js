@@ -25,7 +25,8 @@ module.exports = {
     'keyword-spacing':0,
     'space-infix-ops':0,
     'semi-spacing':0,
-    'space-in-parens':0
+    'space-in-parens':0,
+    'brace-style':0,
 
   }
 }

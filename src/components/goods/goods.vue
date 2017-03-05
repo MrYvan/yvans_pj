@@ -30,16 +30,23 @@
                     <span class="now">￥{{food.price}}</span>
                     <span class="old" v-show="food.oldPrice">￥{{food.oldPrice}}</span>
                   </div>
+                  <div class="cartcontrol-wrapper">
+                    <cartcontrol :food="food"></cartcontrol>
+                  </div>
                 </div>
               </li>
             </ul>
           </li>
         </ul>
       </div>
+      <shopcar :delivery-price="seller.deliveryPrice" :min-price="seller.minPrice" :food-count="foods.count"></shopcar>
     </div>
 </template>
 <script type="text/ecmascript-6">
     import BScroll from 'better-scroll'
+    import shopcar from 'components/shopcar/shopcar'
+    import cartcontrol from 'components/cartcontrol/cartcontrol'
+
     const ERR_OK = 0
     export default {
       props: {
@@ -94,6 +101,7 @@
             click:true
           })
           this.foodsScroll = new BScroll(this.$els.foodsWrapper, {
+            click:true,
             probeType: 3
           })
           this.foodsScroll.on('scroll', (pos) => {
@@ -111,7 +119,10 @@
           }
         }
       },
-      components:{}
+      components:{
+        shopcar,
+        cartcontrol
+      }
     }
 </script>
 <style lang="stylus" rel="stylesheet/stylus">
@@ -214,5 +225,8 @@
                 text-decoration:line-through
                 font-size:10px
                 color:rgb(147,153,159)
-
+           .cartcontrol-wrapper
+              position:absolute
+              right:0
+              bottom:12px
 </style>
