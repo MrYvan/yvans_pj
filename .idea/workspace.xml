@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9458978f-0a3b-44e9-bc41-9745083e1120" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/goods/img/decrease_3@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/goods/img/decrease_3@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/goods/img/discount_3@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/goods/img/discount_3@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/goods/img/guarantee_3@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/goods/img/guarantee_3@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/goods/img/invoice_3@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/goods/img/invoice_3@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/goods/img/special_3@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/goods/img/special_3@3x.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/common/stylus/base.styl" afterPath="$PROJECT_DIR$/src/common/stylus/base.styl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/common/stylus/mixin.styl" afterPath="$PROJECT_DIR$/src/common/stylus/mixin.styl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/goods/goods.vue" afterPath="$PROJECT_DIR$/src/components/goods/goods.vue" />
     </list>
     <ignored path="mySell-1.iws" />
@@ -35,54 +26,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="star.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/star/star.vue">
+      <file leaf-file-name="dev-server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/dev-server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.107143">
-              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".eslintrc.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="18" />
+            <state vertical-scroll-proportion="-5.428571">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="star24_off@3x.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/star/img/star24_off@3x.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/header/header.vue">
+      <file leaf-file-name="data.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.892858">
-              <caret line="157" column="37" selection-start-line="142" selection-start-column="14" selection-end-line="157" selection-end-column="37" />
-              <folding>
-                <element signature="n#ul#0;n#div#0;n#div#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#0;n#div#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="4.75">
+              <caret line="116" column="77" selection-start-line="116" selection-start-column="77" selection-end-line="116" selection-end-column="77" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main.js">
+      <file leaf-file-name="build.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/build.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+              <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -90,49 +69,52 @@
       <file leaf-file-name="goods.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/goods/goods.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2879046">
-              <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.70868826">
+              <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.styl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/common/stylus/base.styl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.464286">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
+      <file leaf-file-name="外卖01_商品页.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/外卖01_商品页.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="icon.styl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/common/stylus/icon.styl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.732143">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-              <folding />
-            </state>
+      <file leaf-file-name="外卖02_商品页_公告及优惠信息.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/外卖02_商品页_公告及优惠信息.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.styl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/common/stylus/index.styl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.6785714">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="20" />
-              <folding />
-            </state>
+      <file leaf-file-name="外卖01_商品页_spec.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/标注/外卖01_商品页_spec.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="mixin.styl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/common/stylus/mixin.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.428571">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state vertical-scroll-proportion="-1.0178572">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dev-client.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/dev-client.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -160,7 +142,6 @@
         <option value="$PROJECT_DIR$/src/common/stylus/mlxin.styl" />
         <option value="$PROJECT_DIR$/src/common/stylus/indec.styl" />
         <option value="$PROJECT_DIR$/build/webpack.base.conf.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/build/webpack.dev.conf.js" />
         <option value="$PROJECT_DIR$/build/dev-server.js" />
         <option value="$PROJECT_DIR$/src/common/stylus/icon.styl" />
@@ -169,10 +150,11 @@
         <option value="$PROJECT_DIR$/src/App.vue" />
         <option value="$USER_HOME$/Desktop/jquery完整包/jquery2.0/jquery-2.0.0.min.js" />
         <option value="$PROJECT_DIR$/.eslintrc.js" />
-        <option value="$PROJECT_DIR$/src/common/stylus/mixin.styl" />
         <option value="$PROJECT_DIR$/src/components/star/star.vue" />
         <option value="$PROJECT_DIR$/src/components/header/header.vue" />
         <option value="$PROJECT_DIR$/src/common/stylus/base.styl" />
+        <option value="$PROJECT_DIR$/src/common/stylus/mixin.styl" />
+        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/components/goods/goods.vue" />
       </list>
     </option>
@@ -185,8 +167,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="703" />
-    <option name="y" value="34" />
+    <option name="x" value="622" />
+    <option name="y" value="5" />
     <option name="width" value="826" />
     <option name="height" value="754" />
   </component>
@@ -222,7 +204,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -327,28 +308,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="header" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mySell-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mySell-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="goods" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -421,7 +380,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="标注" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -441,6 +400,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -529,7 +489,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="703" y="34" width="826" height="754" extended-state="1" />
+    <frame x="622" y="5" width="826" height="754" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22098765" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -569,41 +529,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resource/img/star24_on@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/img/star24_on@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/img/star24_off@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/img/special_4@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/img/star24_half@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/img/star24_off@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/img/star24_half@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resource/img/star48_half@2x.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -648,19 +573,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/build.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.0">
           <caret line="44" column="27" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -792,27 +708,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.9307957">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/star/star.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.107143">
+        <state vertical-scroll-proportion="0.0">
           <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
           <folding />
         </state>
@@ -820,7 +718,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/header/header.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.892858">
+        <state vertical-scroll-proportion="0.0">
           <caret line="157" column="37" selection-start-line="142" selection-start-column="14" selection-end-line="157" selection-end-column="37" />
           <folding>
             <element signature="n#ul#0;n#div#0;n#div#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="false" />
@@ -829,42 +727,117 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/stylus/index.styl">
+    <entry file="file://$PROJECT_DIR$/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6785714">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="20" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/stylus/mixin.styl">
+    <entry file="file://$PROJECT_DIR$/src/common/stylus/base.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.428571">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/common/stylus/icon.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.732143">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/stylus/base.styl">
+    <entry file="file://$PROJECT_DIR$/src/common/stylus/index.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.464286">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/dev-client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/dev-server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.75">
+          <caret line="116" column="77" selection-start-line="116" selection-start-column="77" selection-end-line="116" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.428571">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/外卖01_商品页.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/外卖02_商品页_公告及优惠信息.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/标注/外卖01_商品页_spec.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/stylus/mixin.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0178572">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/goods/goods.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2879046">
-          <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.70868826">
+          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
           <folding />
         </state>
       </provider>
